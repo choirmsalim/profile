@@ -22,7 +22,7 @@ Analisis 700 transaksi H+ (Sales $118.7M, Profit $16.9M) dengan pipeline lengkap
 - **Excel:** What-If Analysis dan Scenario Manager
 - **Power BI:** dashboard eksekutif dengan DAX
 - **Temuan:** segmen Enterprise merugi (margin -3.1%), diskon tinggi menekan margin, Paseo adalah produk penyumbang profit terbesar.
-`Python` `SQL` `Excel` `Power BI` `DAX`
+`Python` `SQL` `Excel` `Power BI`
  
 ### 2. [Excel Sales Performance Dashboard](https://github.com/choirmsalim/excel-sales-performance-dashboard)
 Dashboard penjualan interaktif untuk 5,130 order (Sales $1.71M).
@@ -35,7 +35,7 @@ Dashboard penjualan interaktif untuk 5,130 order (Sales $1.71M).
 Dua studi kasus optimasi bisnis yang diselesaikan dengan Excel Solver.
 - **Perencanaan gizi:** meminimalkan biaya belanja keluarga dengan Integer Programming. Biaya Rp1,91 juta dari anggaran Rp2 juta, dengan target protein dan serat terpenuhi.
 - **Vehicle Routing Problem:** rute 10 truk untuk 50 pelanggan dengan total jarak 1,153.24 km, tanpa melanggar kapasitas truk (28 unit).
-`Excel` `Solver` `Optimization`
+`Excel` `Solver`
  
 ---
 
