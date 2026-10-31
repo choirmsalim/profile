@@ -9,7 +9,7 @@ Mengubah data mentah menjadi insight dan rekomendasi bisnis yang bisa langsung d
  
 - Berfokus pada analisis data keuangan dan penjualan, dari data cleansing sampai dashboard dan rekomendasi bisnis.
 - Terbiasa mengerjakan proyek **end-to-end**: Python → SQL → Excel → Power BI.
-- Sedang mendalami: Tableau, AI, machine learning, DAX tingkat lanjut, dan otomasi dengan Python.
+- Sedang mendalami: Tableau, AI tools, machine learning, DAX tingkat lanjut, dan otomasi dengan Python.
 - Terbuka untuk: **[Data Analyst / Business Analyst / Magang / Finance / Accounting / Management Trainee / Remote Job or Freelance]**.
 ---
 
