@@ -15,7 +15,7 @@ Mengubah data mentah menjadi insight dan rekomendasi bisnis yang bisa langsung d
 
 ## 📊 Proyek Unggulan
  
-### 1. [End-to-End Financial Performance Analytics](https://github.com/choirmsalim/<nama-repo-lengkap>)
+### 1. [End-to-End Financial Performance Analytics](https://github.com/choirmsalim/end-to-end-financial-performance-analytics))
 Analisis 700 transaksi H+ (Sales $118.7M, Profit $16.9M) dengan pipeline lengkap.
 - **Python:** data cleansing, EDA, regresi linear prediksi profit
 - **SQL:** star schema dan KPI (Profit Margin, COGS Ratio, YoY)
