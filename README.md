@@ -19,7 +19,7 @@ Mengubah data mentah menjadi insight dan rekomendasi bisnis yang bisa langsung d
 Analisis 700 transaksi H+ (Sales $118.7M, Profit $16.9M) dengan pipeline lengkap.
 - **Python:** data cleansing, EDA, regresi linear prediksi profit
 - **SQL:** star schema dan KPI (Profit Margin, COGS Ratio, YoY)
-- **Excel:** What-If Analysis dan Scenario Manager
+- **Excel:** Financial P&L serta What-If Analysis (Scenario Manager dan Data Table)
 - **Power BI:** dashboard eksekutif dengan DAX
 - **Temuan:** segmen Enterprise merugi (margin -3.1%), diskon tinggi menekan margin, Paseo adalah produk penyumbang profit terbesar.
 `Python` `SQL` `Excel` `Power BI`
